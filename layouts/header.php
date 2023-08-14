@@ -80,14 +80,16 @@ require_once('koneksi.php');
         </li> -->
       </ul>
     </aside>
-    <div class="topnav">
-      <input type="text" placeholder="Search..">
-      <button><span class="material-symbols-outlined">search</span></button>
-      <a>
-        <span class="material-symbols-outlined">login</span>
-        &nbsp; Login
-      </a>
-    </div>
+    <div class="centernav">
+      <div class="topnav">
+        <input type="text" placeholder="Search..">
+        <button><span class="material-symbols-outlined">search</span></button>
+        <a>
+          <span class="material-symbols-outlined">login</span>
+          &nbsp; Login
+        </a>
+      </div>
+</div>
 
 
     
