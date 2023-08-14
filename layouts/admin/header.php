@@ -18,11 +18,11 @@ require_once('koneksi.php');
         <h2>PPM</h2>
       </div>
       <ul class="links">
-        <li>
+        <!-- <li>
           <span class="material-symbols-outlined">home</span>
           <a href="#">Dashboard</a>
-        </li>
-        <hr>
+        </li> -->
+        <!-- <hr> -->
         <h4>Pemerintahan</h4>
         <li>
           <span class="material-symbols-outlined">group</span>
@@ -84,8 +84,7 @@ require_once('koneksi.php');
       <input type="text" placeholder="Search..">
       <button><span class="material-symbols-outlined">search</span></button>
       <a>
-        <span class="material-symbols-outlined">login</span>
-        &nbsp; Login
+        <span class="material-symbols-outlined">logout</span> Logout
       </a>
     </div>
 
